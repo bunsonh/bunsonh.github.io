@@ -14,10 +14,14 @@ I realized I needed a way to track my progress, so I decided to start from absol
 - [x] install [Jekyll](https://jekyllrb.com/) static website generator
 - [x] install and configure [Just the Docs](https://just-the-docs.github.io/) Jekyll theme
 <<<<<<< HEAD:docs/platform-setup.md
+<<<<<<< HEAD:docs/platform-setup.md
 - [x] learn Jekyll filesystem and markup; create `Hello World` page
 =======
 - [x] learn Jekyll filesystem and markup; create Hello World (todo: cross link) page
 >>>>>>> 83f44ac (og revert square one):docs/platform setup.md
+=======
+- [x] learn Jekyll filesystem and markup; create [`Hello World`]({% link docs/hello-world.md %}) page
+>>>>>>> 76271da (ok?):docs/platform setup.md
 
 **ToDo:**
 - [ ] create ideal dir/file structure and populate index.md
