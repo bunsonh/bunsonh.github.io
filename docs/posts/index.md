@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Blog Posts
 nav_order: 4
 has_children: true
