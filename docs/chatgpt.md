@@ -1,5 +1,5 @@
 ---
-layout: default
+# layout: default
 title: Usage of ChatGPT
 nav_order: 97
 ---
