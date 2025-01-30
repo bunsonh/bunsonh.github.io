@@ -13,7 +13,7 @@ I realized I needed a way to track my progress, so I decided to start from absol
 - [x] install and configure [VS Code](https://code.visualstudio.com/) for editing and deploying to Github
 - [x] install [Jekyll](https://jekyllrb.com/) static website generator
 - [x] install and configure [Just the Docs](https://just-the-docs.github.io/) Jekyll theme
-- [x] learn Jekyll filesystem and markup; create [`Hello World`]({% link docs/hello-world.md %}) page
+- [x] learn Jekyll filesystem and markup; create Hello World (todo: cross link) page
 
 **ToDo:**
 - [ ] create ideal dir/file structure and populate index.md
