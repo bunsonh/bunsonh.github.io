@@ -1,5 +1,5 @@
 ---
-layout: default
+# layout: default
 title: Hello World
 date: 2024-07-11 15:42:30
 nav_order: 98

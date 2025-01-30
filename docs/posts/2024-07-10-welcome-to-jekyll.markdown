@@ -1,5 +1,5 @@
 ---
-layout: default
+# layout: default
 title:  "Welcome to Jekyll! 1"
 date:   2024-07-10 17:24:12 -0700
 parent: Blog Posts
