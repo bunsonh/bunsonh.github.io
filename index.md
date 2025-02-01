@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Welcome to My Project Portfolio
+title: Home
 nav_order: 1
 ---
 

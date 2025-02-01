@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Blog Posts
-nav_order: 4
-has_children: true
+title: Sandbox
+nav_order: 98
+has_children: false
 ---
 
 ### Content

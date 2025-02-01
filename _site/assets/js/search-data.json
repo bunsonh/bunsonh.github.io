@@ -13,8 +13,8 @@
     
     "relUrl": "/docs/posts/2024-07-11-welcome-to-jekyll.html"
   },"2": {
-    "doc": "About",
-    "title": "About",
+    "doc": "About Me",
+    "title": "About Me",
     "content": "This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at jekyllrb.com . You can find the source code for Minima at GitHub: jekyll / minima . You can find the source code for Jekyll at GitHub: jekyll / jekyll . ",
     "url": "/about/",
     
@@ -34,43 +34,43 @@
     
     "relUrl": "/docs/hello-world.html"
   },"5": {
-    "doc": "Blog Posts",
+    "doc": "Sandbox",
     "title": "Liquid Test",
     "content": "Hello, Liquid! . ",
     "url": "/docs/posts/#liquid-test",
     
     "relUrl": "/docs/posts/#liquid-test"
   },"6": {
-    "doc": "Blog Posts",
+    "doc": "Sandbox",
     "title": "My Progress Tracker",
     "content": "84% ",
     "url": "/docs/posts/#my-progress-tracker",
     
     "relUrl": "/docs/posts/#my-progress-tracker"
   },"7": {
-    "doc": "Blog Posts",
+    "doc": "Sandbox",
     "title": "Time Percentage",
     "content": "15% ",
     "url": "/docs/posts/#time-percentage",
     
     "relUrl": "/docs/posts/#time-percentage"
   },"8": {
-    "doc": "Blog Posts",
+    "doc": "Sandbox",
     "title": "progress box",
     "content": "Your text goes here. Describe the progress or any other details you want to highlight. Total minutes left: 790 . Total minutes total: 990 . Progress percentage: 20 . 20% ",
     "url": "/docs/posts/#progress-box",
     
     "relUrl": "/docs/posts/#progress-box"
   },"9": {
-    "doc": "Blog Posts",
+    "doc": "Sandbox",
     "title": "css test",
     "content": "This is a test box with custom styling. This is a test box with inline styling. ",
     "url": "/docs/posts/#css-test",
     
     "relUrl": "/docs/posts/#css-test"
   },"10": {
-    "doc": "Blog Posts",
-    "title": "Blog Posts",
+    "doc": "Sandbox",
+    "title": "Sandbox",
     "content": "Content . ",
     "url": "/docs/posts/",
     
@@ -104,30 +104,51 @@
     
     "relUrl": "/projects/linkedin-learning/"
   },"15": {
-    "doc": "Welcome to My Project Portfolio",
+    "doc": "An Indexx",
+    "title": "CONTENT",
+    "content": "yup . ",
+    "url": "/projects/#content",
+    
+    "relUrl": "/projects/#content"
+  },"16": {
+    "doc": "An Indexx",
+    "title": "An Indexx",
+    "content": " ",
+    "url": "/projects/",
+    
+    "relUrl": "/projects/"
+  },"17": {
+    "doc": "Home",
     "title": "Welcome to My Project Portfolio",
     "content": "Hello and welcome to my project portfolio! Here, I document my journey through various projects, courses, and learning activities. Explore my progress, insights, and accomplishments as I advance my skills and knowledge. ",
-    "url": "/",
+    "url": "/#welcome-to-my-project-portfolio",
     
-    "relUrl": "/"
-  },"16": {
-    "doc": "Welcome to My Project Portfolio",
+    "relUrl": "/#welcome-to-my-project-portfolio"
+  },"18": {
+    "doc": "Home",
     "title": "Featured Projects",
     "content": "LinkedIn Learning Courses . I am currently refreshing skills using LinkedIn Learning courses. Getting Started With Software Testing . 15% . | Course 1: Lesson 1 | Course 1: Lesson 2 | More courses and lessons coming soon! | . Awesome Sites to Test On . I am testing various websites to broaden my understanding of web development and QA practices. Check out my findings and reports: . | Site 1 | Site 2 | More sites and tests coming soon! | . ",
     "url": "/#featured-projects",
     
     "relUrl": "/#featured-projects"
-  },"17": {
-    "doc": "Welcome to My Project Portfolio",
+  },"19": {
+    "doc": "Home",
     "title": "About Me",
     "content": "I am passionate about technology, learning, and sharing my knowledge. This portfolio serves as a way to document my journey and connect with like-minded individuals. Feel free to reach out to me on LinkedIn. Thank you for visiting my portfolio. I hope you find my projects and insights valuable and inspiring! . ",
     "url": "/#about-me",
     
     "relUrl": "/#about-me"
-  },"18": {
+  },"20": {
+    "doc": "Home",
+    "title": "Home",
+    "content": " ",
+    "url": "/",
+    
+    "relUrl": "/"
+  },"21": {
     "doc": "Environment and Platform Setup",
     "title": "Environment and Platform Setup",
-    "content": "I realized I needed a way to track my progress, so I decided to start from absolute scratch by employing a “Beginner’s Mind” approach. Some of the tasks I’ve completed: . | configure fresh Ubuntu install within Windows Hyper-V VM client | created GitHub hub repository: https://github.com/bunsonh | set up git w/ SSH key | install and configure VS Code for editing and deploying to Github | install Jekyll static website generator | install and configure Just the Docs Jekyll theme | learn Jekyll filesystem and markup; create Hello World page | . ToDo: . | create ideal dir/file structure and populate index.md | deploy Jekyll site to GitHub pages | create progress tracker for LinkedIn Learning courses | . ",
+    "content": "I realized I needed a way to track my progress, so I decided to start from absolute scratch by employing a “Beginner’s Mind” approach. Some of the tasks I’ve completed: . | configure fresh Ubuntu install within Windows Hyper-V VM client | created GitHub hub repository: https://github.com/bunsonh | set up git w/ SSH key | install and configure VS Code for editing and deploying to Github | install Jekyll static website generator | install and configure Just the Docs Jekyll theme | learn Jekyll filesystem and markup; create Hello World page | deploy Jekyll site to GitHub Pages | create progress tracker for LinkedIn Learning courses | . ToDo: . | familiarize with Github repository management | create ideal dir/file structure and populate index.md | . ",
     "url": "/docs/platform%20setup.html",
     
     "relUrl": "/docs/platform%20setup.html"
