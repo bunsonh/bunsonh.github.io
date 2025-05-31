@@ -6,7 +6,7 @@ nav_order: 1
 
 # Welcome to My Project Portfolio
 
-Hello and welcome to my project portfolio! Here, I document my journey through various projects, courses, and learning activities. Explore my progress, insights, and accomplishments as I advance my skills and knowledge.
+Hello and welcome to my project portfolio! Here, I document my journey through various projects, courses, and learning activities. Explore my progress, insights, and accomplishments as I advance my QA skills and knowledge.
 
 ## Featured Projects
 
@@ -40,11 +40,7 @@ I am currently refreshing skills using LinkedIn Learning courses.
 - More courses and lessons coming soon!
 
 ### [Awesome Sites to Test On](https://github.com/BMayhew/awesome-sites-to-test-on)
-I am testing various websites to broaden my understanding of web development and QA practices. Check out my findings and reports:
-
-- [Site 1](/2024/07/11/site-1)
-- [Site 2](/2024/07/12/site-2)
-- More sites and tests coming soon!
+Brad Mayhew has offered a curated list of sites for testing in several categories. This is an excellent resource as I refresh or develop skills in each of these categories. An essential resource for any tester.
 
 <!-- ## Recent Blog Posts
 
