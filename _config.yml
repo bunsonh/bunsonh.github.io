@@ -29,6 +29,11 @@ url: "https://bunsonh.github.io" # the base hostname & protocol for your site, e
 # twitter_username: jekyllrb
 github_username:  bunsonh
 
+# Google Analytics Tracking (optional)
+# Supports a CSV of tracking ID strings (eg. "UA-1234567-89,G-1AB234CDE5")
+ga_tracking: G-G8SWY9EBGR
+ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true/nil by default)
+
 sass:
   style: compressed
   sass_dir: _sass
