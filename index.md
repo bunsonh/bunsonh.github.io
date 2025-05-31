@@ -34,8 +34,8 @@ I am currently refreshing skills using LinkedIn Learning courses.
 </div>
 
 
-- [Course 1: Lesson 1](/2024/07/11/course-1-lesson-1)
-- [Course 1: Lesson 2](/2024/07/12/course-1-lesson-2)
+- [Programming Foundations: Software Testing/QA](https://www.linkedin.com/learning/programming-foundations-software-testing-qa?contextUrn=urn%3Ali%3AlyndaLearningPath%3A57f7e27c3dd559e018dfe994&u=95229105)
+- [Understanding Manual Testing](https://www.linkedin.com/learning/understanding-manual-testing?contextUrn=urn%3Ali%3AlyndaLearningPath%3A57f7e27c3dd559e018dfe994&u=95229105)
 - More courses and lessons coming soon!
 
 ### [Awesome Sites to Test On](projects/awesome-sites/)
