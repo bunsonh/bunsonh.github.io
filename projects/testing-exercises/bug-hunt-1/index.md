@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Bug Hunt #1 - Academy Bugs
-# parent: My Projects
+parent: Manual / Exploratory
 # nav_order: 2
-has_children: false
+has_children: True
 ---
 
 ### Notes
