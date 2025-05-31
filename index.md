@@ -39,7 +39,7 @@ I am currently refreshing skills using LinkedIn Learning courses.
 - [Test Automation Foundations](https://www.linkedin.com/learning/test-automation-foundations?contextUrn=urn%3Ali%3AlyndaLearningPath%3A57f7e27c3dd559e018dfe994&u=95229105)
 - More courses and lessons coming soon!
 
-### [Awesome Sites to Test On](projects/awesome-sites/)
+### [Awesome Sites to Test On](https://github.com/BMayhew/awesome-sites-to-test-on)
 I am testing various websites to broaden my understanding of web development and QA practices. Check out my findings and reports:
 
 - [Site 1](/2024/07/11/site-1)
