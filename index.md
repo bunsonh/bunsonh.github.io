@@ -15,10 +15,10 @@ I am currently refreshing skills using LinkedIn Learning courses.
 
 [**Getting Started With Software Testing**](https://www.linkedin.com/learning/paths/getting-started-with-software-testing)
 
-{% assign hours_left = 13 %}
-{% assign minutes_left = 52 %}
-{% assign hours_total = 16 %}
-{% assign minutes_total = 30 %}
+{% assign hours_left = 15 %}
+{% assign minutes_left = 26 %}
+{% assign hours_total = 18 %}
+{% assign minutes_total = 1 %}
 
 {% assign total_minutes_left = hours_left | times: 60 | plus: minutes_left %}
 {% assign total_minutes_total = hours_total | times: 60 | plus: minutes_total %}
