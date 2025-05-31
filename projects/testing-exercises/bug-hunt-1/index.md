@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Bug Hunt #1 - Academy Bugs
+title: Bug Hunt \#1 - Academy Bugs
 parent: Manual / Exploratory
 # nav_order: 2
 has_children: True
