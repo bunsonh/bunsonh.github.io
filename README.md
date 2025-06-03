@@ -15,7 +15,7 @@ Methods of approach:
   - Postman Essential Training
   - ISTQB Foundation Cert Prep
   - Java: Testing with JUnit
-  - SQL for Tester
+  - SQL for Testers
   
 * [Brad Mayhew's "Awesome Sites to Test On" repository](https://github.com/BMayhew/awesome-sites-to-test-on?tab=readme-ov-file)
   - Here I will sample from the list of simulated test sites
